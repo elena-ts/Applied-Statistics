@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Analysis+of+Kaggle+contributors)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Applied+Statistics)](https://git.io/typing-svg)
 
 Прикладная статистика – это наука, которая применяет методы математической статистики для решения задач в различных 
 областях, таких как экономика, медицина, социология, психология и т.д. 
